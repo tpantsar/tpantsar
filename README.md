@@ -1,4 +1,4 @@
--👋 Hi, I’m @Tomppa22
+- 👋 Hi, I’m @Tomppa22
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Summer Trainee positions
